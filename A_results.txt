@@ -1,0 +1,8 @@
+Imagem: D:/Desktop/CG/Atividade7/A.png
+Características Estruturais: 3
+Estatísticas:
+Região 0: [     0      0    512    473 138931]
+Região 1: [ 172  155  107  136 7531]
+Região 2: [    0   329   512   183 38500]
+Características da GLCM: [5.76498050e-01 4.82861162e+02 9.82157406e-01 1.35295589e+04
+ 9.92574337e-01]

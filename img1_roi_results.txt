@@ -1,0 +1,9 @@
+Imagem: C:/Users/Leonardo Borges/Desktop/CG/Atividade7/img1_roi.png
+Características Estruturais: 15
+Estatísticas:
+Região 0: [    0     0   127   441 44833]
+Região 1: [  41  106   39  186 3996]
+Características da GLCM: [ 5.37406998e-01  4.79570590e+02  9.73519438e-01  9.04488416e+03
+  8.53472695e-01  4.11380097e+02  3.56999660e+04  2.47021980e+00
+  2.95494908e+00  2.78493081e-03  1.59357759e+00 -6.15426260e-01
+  9.61830212e-01]
